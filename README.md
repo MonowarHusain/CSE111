@@ -16,5 +16,5 @@ These solutions are meant for reference and educational purposes only. While you
 
 Directly copying the code violates academic integrity policies and hinders your learning and understanding of the subject. Always attempt to complete the assignments independently before looking at these solutions.
 
-For corrections or suggestions, please contact me at monowar@monowar.me or monowarhusainomi@gmail.com
+For corrections, suggestions, or any kind of academic help, please feel free to contact me at monowar@monowar.me or monowarhusainomi@gmail.com
 
