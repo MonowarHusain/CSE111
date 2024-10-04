@@ -4,8 +4,7 @@ This course would be an introduction to data structures, formal specification of
 The course includes a compulsory 3 hour laboratory work each week.
 
 ## Prerequisite
-CSE110 :  Programming Language I
-
+[CSE110 :  Programming Language](https://github.com/MonowarHusain/CSE110) I
 ## Suggested Texts:
 1. Appropriate book for the language chosen by the course teacher.
 
